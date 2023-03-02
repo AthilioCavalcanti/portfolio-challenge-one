@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.presentation__image {
+  background-image: url(./../../images/perfil-98px.webp);
+  border-radius: 100%;
+  height: 6.125rem;
+  width: 6.125rem;
+}
+
+@media screen and (min-width:768px) {
+  .presentation__image {
+    background-image: url(./../../images/perfil-146px.webp);
+  }
+}

@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+.presentation__title {
+  font-size: 1.375rem;
+  margin-top: 1rem;
+}
+
+.presentation__description {
+  font-size: 0.875rem;
+  margin: 1rem 0;
+}

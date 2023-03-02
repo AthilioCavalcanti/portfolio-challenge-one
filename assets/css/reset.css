@@ -7,5 +7,10 @@
 }
 
 body {
+	color: var(--black-color-100);
   font-family: 'Raleway', sans-serif;
+}
+
+li {
+	display: block;
 }
