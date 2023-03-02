@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.card {
+  background-color: white;
+  padding: 1rem;
+}
+
+.card__icon {
+  height: 2.3125rem;
+  margin-bottom: 0.5rem;
+}
+
+.card__title {
+  font-weight: 700;
+  line-height: 1.1875rem;
+}
